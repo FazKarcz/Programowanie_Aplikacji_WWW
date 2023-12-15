@@ -1,0 +1,165 @@
+body
+{
+	background-color: LightBlue;
+	margin: 0px;
+	padding: 0px;
+}
+a
+{
+	text-decoration-line: unset;
+	color: black;
+}
+#Menu 
+{
+	background-color: GhostWhite;
+	float: left;
+	width: 14.05%;
+	height: 27.5px;
+	border: double;
+	text-align: center;
+	margin-bottom: 80px;
+	padding-top: 10px;
+	
+}
+#Menu:hover
+{
+	background-color: LightSteelBlue;
+}
+#Tytul
+{
+	float: left;
+	background-color: SteelBlue;
+	width: 13.5%;
+	height:100%;
+	border-radius: 5px;
+	text-align: center;
+	border: solid;
+}
+main
+{
+	border-top: solid;
+	border-bottom: solid;
+	margin-top: 50px;
+	background-color: SkyBlue;
+	float: left;
+	width: 100%;
+	padding: 5px 0px 5px 0px;
+}
+#strgo
+{
+	text-align: center;
+}
+#apol13
+{
+	text-align: center;
+	border-top: solid;
+	background-color: SkyBlue;
+	margin-top: 5px;
+	float: left;
+	width: 100%;
+	padding: 5px 0px 5px 0px;
+}
+#plot
+{
+	text-align: center;
+	border-left: solid;
+	border-right: solid;
+	width: 50%;
+	margin-left: 25%;
+}
+#gal
+{
+	margin-top: 10px;
+	text-align: center;
+}
+img
+{
+	border-radius: 15px;
+	border: thin;
+}
+#img1
+{
+	width: 250px;
+	float: left;
+}
+#img2
+{
+	width: 250px;
+	float: right;
+}
+#apollo2
+{
+	width: 300px;
+	float: left;
+	
+}
+#apollo3
+{
+	width: 150px;
+	float: left;
+	margin-left: 45%;
+}
+
+#apollo5
+{
+	width: 300px;
+	float: right;
+	margin-right: 5px;
+}
+#plot1
+{
+	width: 300px;
+	float: right;
+	margin-right: 5px;
+}
+#plot2
+{
+	width: 150px;
+	float: center;
+	margin-right: 5px;
+}
+#plot3
+{
+	width: 250px;
+	float: left;
+	margin-right: 5px;
+}
+
+#uklad
+{
+	width: 150px;
+	float: left;
+	margin-right: 5px;
+}
+#planety
+{
+	float: left;
+}
+textarea 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+form 
+{ 
+margin: 0 auto; 
+width:500px;
+}
+.test-block{
+	width: 200px;
+	border: 2px solid rgba(71,236,30,1);
+	background: rgba(71,236,30,0,7);
+	text-align: center;
+	color: #000;
+	padding: 20px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
